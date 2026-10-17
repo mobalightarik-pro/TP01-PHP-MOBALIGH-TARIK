@@ -1,5 +1,5 @@
 <?php
-//exercice 5
+
 $nom = "tarik";
 $age = 19;
 $ville = "marrakech";
